@@ -108,7 +108,9 @@ firmware/keychain_oled/keychain_oled.ino   ESP32 firmware (Arduino)
 web/index.html                              Web page (rename of keychain_oled.html)
 README.md
 
-Troubleshooting
+Troubleshooting<img width="4032" height="3024" alt="IMG_0116" src="https://github.com/user-attachments/assets/d62579ac-f327-45ba-aa33-41dc2a460943" />
+<img width="1157" height="1086" alt="21DB5072-6CEE-421D-BE65-6CBD976D45CF" src="https://github.com/user-attachments/assets/c891c0e9-8753-4029-bb1d-9ef108f9d73d" />
+
 
 	•	Blank screen: re-check the SCL, SDA, CS, DC, and RES wires and the 3.3V supply.
 	•	Can't find the keychain in the Bluetooth window: make sure it is powered and use Chrome (not Safari or Firefox).
