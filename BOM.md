@@ -16,7 +16,7 @@
 | [TP4056 1A Lithium Ion Battery Charging Board with Current Protection](https://www.google.com/aclk?sa=L&ai=DChsSEwim0YKHrrGXAxV5NIMDHdpnKuEYACICCAEQEhoCc2Y&co=1&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNbf6wZ9z9ADYWJmx2LmXlbCFq8wdxn47as8h4BRWzfkqmWodS8ZGtAaAroVEALw_wcB&cid=CAASugHkaO1GhWshs5qL-7JdfPnfHkV_qeloLmj6o0oinOzigCwskcWnWEX46Q3YvTgRLrcSNPa8dcGpL0aldHLMYjpKqDTz0q966p0QXMTRxtFKjxh6ja17AGyPGMU0vkpwLjAX_8d11B_hQsQZskZ6Fgh2oSD-CULTVyZl812XLxVg0ud-idmDAOOIL0CIFja2dmwKWquXAxzfdFNB8l7EdUTDGpDqrubsMPjiSsYlY7k7PDgCd8t6ojvtZ-Q&cce=1&sig=AOD64_0VWqjdSSMB-OGVHj_UQuy8MHseIQ&ctype=5&q=&ved=2ahUKEwjVlvqGrrGXAxWFkOEIHQfsDq8Q5bgDKAB6BAgQEAs&adurl=) | Charging device | 1 | $1.00 | $1.00 | [ElectroPi](https://www.google.com/aclk?sa=L&ai=DChsSEwim0YKHrrGXAxV5NIMDHdpnKuEYACICCAEQEhoCc2Y&co=1&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNbf6wZ9z9ADYWJmx2LmXlbCFq8wdxn47as8h4BRWzfkqmWodS8ZGtAaAroVEALw_wcB&cid=CAASugHkaO1GhWshs5qL-7JdfPnfHkV_qeloLmj6o0oinOzigCwskcWnWEX46Q3YvTgRLrcSNPa8dcGpL0aldHLMYjpKqDTz0q966p0QXMTRxtFKjxh6ja17AGyPGMU0vkpwLjAX_8d11B_hQsQZskZ6Fgh2oSD-CULTVyZl812XLxVg0ud-idmDAOOIL0CIFja2dmwKWquXAxzfdFNB8l7EdUTDGpDqrubsMPjiSsYlY7k7PDgCd8t6ojvtZ-Q&cce=1&sig=AOD64_0VWqjdSSMB-OGVHj_UQuy8MHseIQ&ctype=5&q=&ved=2ahUKEwjVlvqGrrGXAxWFkOEIHQfsDq8Q5bgDKAB6BAgQEAs&adurl=) |
 | [3.7V 500mAh LiPo Battery (502248) - 1.85Wh Lithium Polymer Cell with Protection PCB](https://probots.co.in/3-7v-500mah-lipo-battery-502248-open-ended.html) | Battery for power | 1 | $3.70 | $3.70 | [Probots](https://probots.co.in/3-7v-500mah-lipo-battery-502248-open-ended.html) |
 | **Parts subtotal** | — | — | — | **$13.20** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$13.20** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$18.20** | — |
 
-$16.80 left of the tier's funding.
+$11.80 left of the tier's funding.
