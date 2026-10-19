@@ -22,3 +22,8 @@
 | **Total** | — | — | — | **$30.00** | — |
 
 $0.00 left of the tier's funding.
+| Part | Photo | Qty |
+|------|-------|-----|
+| ESP32-C3 Super Mini | ![ESP32](images/esp32.jpg) | 1 |
+| 1.5in OLED SSD1351 | ![OLED](images/oled.jpg) | 1 |
+<img width="1878" height="1028" alt="IMG_0235" src="https://github.com/user-attachments/assets/e7f42f79-778c-4c61-bf7f-09d3a51108d3" />
