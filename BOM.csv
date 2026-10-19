@@ -7,3 +7,7 @@ SW1,Slide switch,1,Power on/off switch,,
 SW2,Push button,1,Tactile button to wake and change screens,,
 -,Jumper wires / hookup wire,1,Wire for connections between modules,,
 -,Keychain ring,1,Metal ring for attaching the finished keychain,,
+| Part | Photo | Qty |
+|------|-------|-----|
+| ESP32-C3 Super Mini | ![ESP32](images/esp32.jpg) | 1 |
+| 1.5in OLED SSD1351 | ![OLED](images/oled.jpg) | 1 |
